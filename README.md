@@ -50,7 +50,7 @@ Create a `.env` file in the root directory and add your OpenAI API key:
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-### **Step 4: Replace Menow.png with your own image**
+### **Step 4: Replace Meow.png with your own image**
 with the proper location of your image.
 
 ### **Step 5: Run the Application**
