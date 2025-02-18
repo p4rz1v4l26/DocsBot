@@ -14,10 +14,10 @@ from langchain_community.callbacks.manager import get_openai_callback
 load_dotenv()
 
 # Set page configuration as the first Streamlit command
-img = Image.open(r"C:\Users\waral\Desktop\Conversational-Chatbot\meow.png")
+img = Image.open(r"C:\Users\waral\Desktop\Github\Conversational-Chatbot\meow.png")
 st.set_page_config(page_title="Conversational Chatbot", page_icon=img)
 
-st.header("Interact with Your Document📄")
+st.header("DocsBot - Interact with Your Document📄")
 
 # Initialize session state for conversation history
 if "history" not in st.session_state:
