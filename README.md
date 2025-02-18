@@ -38,7 +38,7 @@ Ensure the following are installed:
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/p4rz1v4l26/Conversational-Chatbot.git
+git clone https://github.com/p4rz1v4l26/docsbot.git
 ```
 ### **Step 2: Install Dependencies**
 ```bash
