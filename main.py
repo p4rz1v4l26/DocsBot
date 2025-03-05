@@ -14,7 +14,12 @@ from langchain_community.callbacks.manager import get_openai_callback
 load_dotenv()
 
 # Set page configuration as the first Streamlit command
+<<<<<<< HEAD
 st.set_page_config(page_title="Conversational Chatbot", page_icon=("meow.png"))
+=======
+img = Image.open(r"C:\Users\waral\Desktop\Github\Conversational-Chatbot\meow.png")
+st.set_page_config(page_title="Conversational Chatbot", page_icon=img)
+>>>>>>> b132ddfa048fce63723e48c70455e7ea8437b0fb
 
 st.header("DocsBot - Interact with Your Document📄")
 
